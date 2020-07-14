@@ -1,3 +1,3 @@
 # PDSW_Library
 
-- Url: https://DavidAlbornoz.github.io/PDSW_Library/dist/index.html
+- Url: https://DavidAlbornoz.github.io/PDSW/dist/index.html
